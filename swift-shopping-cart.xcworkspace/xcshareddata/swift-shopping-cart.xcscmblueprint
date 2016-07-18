@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B1080C5C0E452DADBAE0E3C0ABB128E84B0B2A2A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "79A9AB99EC81FE0711AF38003FC4F9320D6FFA0F" : 0,
+    "B1080C5C0E452DADBAE0E3C0ABB128E84B0B2A2A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C85134D8-A6B2-4A69-A0C6-54C56DAA1377",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "79A9AB99EC81FE0711AF38003FC4F9320D6FFA0F" : "",
+    "B1080C5C0E452DADBAE0E3C0ABB128E84B0B2A2A" : "swift-shopping-cart-ios-0616\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "swift-shopping-cart",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "swift-shopping-cart.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ismaelbarry\/swift-vehicle-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "79A9AB99EC81FE0711AF38003FC4F9320D6FFA0F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ismaelbarry\/swift-shopping-cart-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B1080C5C0E452DADBAE0E3C0ABB128E84B0B2A2A"
+    }
+  ]
+}
